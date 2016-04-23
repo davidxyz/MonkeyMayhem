@@ -6,8 +6,6 @@
 #screen shots of some game play
 ![alt tag](https://raw.githubusercontent.com/davidxyz/MonkeyMayhem/master/screenshots/ss1.png)
 
-![alt tag](https://raw.githubusercontent.com/davidxyz/MonkeyMayhem/master/screenshots/ss2.png)
-
 
 ![alt tag](https://raw.githubusercontent.com/davidxyz/MonkeyMayhem/master/screenshots/ss3.png)
 
