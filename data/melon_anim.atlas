@@ -1,0 +1,34 @@
+
+melon_anim.png
+size: 356,61
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+melon0
+  rotate: false
+  xy: 2, 2
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+melon1
+  rotate: false
+  xy: 91, 2
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+melon2
+  rotate: false
+  xy: 180, 2
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+melon3
+  rotate: false
+  xy: 269, 2
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1

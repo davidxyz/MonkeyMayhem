@@ -1,0 +1,27 @@
+
+reg_pig_ground.png
+size: 321,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reg_pig_ground0
+  rotate: false
+  xy: 2, 2
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+reg_pig_ground1
+  rotate: false
+  xy: 109, 2
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+reg_pig_ground2
+  rotate: false
+  xy: 216, 2
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1

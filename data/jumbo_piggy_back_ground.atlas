@@ -1,0 +1,27 @@
+
+jumbo_piggy_back_ground.png
+size: 321,112
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jumbo_piggy_back_ground0
+  rotate: false
+  xy: 2, 2
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+jumbo_piggy_back_ground1
+  rotate: false
+  xy: 109, 2
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+jumbo_piggy_back_ground2
+  rotate: false
+  xy: 216, 2
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1

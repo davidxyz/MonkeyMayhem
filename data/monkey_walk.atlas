@@ -1,0 +1,69 @@
+
+monkey_walk.png
+size: 1017,116
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+monkey_touchdown
+  rotate: false
+  xy: 2, 4
+  size: 114, 112
+  orig: 114, 112
+  offset: 0, 0
+  index: 6
+monkey_touchdown
+  rotate: false
+  xy: 118, 2
+  size: 99, 114
+  orig: 99, 114
+  offset: 0, 0
+  index: 4
+monkey_touchdown
+  rotate: false
+  xy: 319, 2
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: 2
+monkey_touchdown
+  rotate: false
+  xy: 419, 2
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: 3
+monkey_touchdown
+  rotate: false
+  xy: 519, 2
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: 8
+monkey_touchdown
+  rotate: false
+  xy: 619, 3
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: 9
+monkey_touchdown
+  rotate: false
+  xy: 719, 4
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: 7
+monkey_touchdown
+  rotate: false
+  xy: 819, 5
+  size: 98, 111
+  orig: 98, 111
+  offset: 0, 0
+  index: 10
+monkey_touchdown
+  rotate: false
+  xy: 919, 6
+  size: 98, 110
+  orig: 98, 110
+  offset: 0, 0
+  index: 5

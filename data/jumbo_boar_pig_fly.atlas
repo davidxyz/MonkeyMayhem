@@ -1,0 +1,69 @@
+
+jumbo_boar_pig_fly.png
+size: 650,253
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jumbo_angry_boar_pig_fly_backward
+  rotate: false
+  xy: 2, 2
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: 3
+jumbo_angry_boar_pig_fly_backward
+  rotate: false
+  xy: 276, 20
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: 2
+jumbo_angry_boar_pig_fly_backward
+  rotate: false
+  xy: 413, 24
+  size: 135, 112
+  orig: 135, 112
+  offset: 0, 0
+  index: 1
+jumbo_angry_boar_pig_fly_forward
+  rotate: false
+  xy: 2, 126
+  size: 135, 127
+  orig: 135, 127
+  offset: 0, 0
+  index: 3
+jumbo_angry_boar_pig_fly_forward
+  rotate: false
+  xy: 139, 133
+  size: 135, 120
+  orig: 135, 120
+  offset: 0, 0
+  index: 1
+jumbo_angry_boar_pig_fly_forward
+  rotate: false
+  xy: 413, 138
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: 2
+jumbo_angry_boar_pig_fly_standstill
+  rotate: false
+  xy: 276, 137
+  size: 135, 116
+  orig: 135, 116
+  offset: 0, 0
+  index: 2
+jumbo_boar_pig_fly_forward
+  rotate: false
+  xy: 550, 179
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: 1
+jumbo_boar_pig_fly_standstill
+  rotate: false
+  xy: 139, 11
+  size: 135, 120
+  orig: 135, 120
+  offset: 0, 0
+  index: 1

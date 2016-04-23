@@ -1,0 +1,62 @@
+
+angry_boar_pig_fly.png
+size: 816,96
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+angry_boar_pig_fly_backward
+  rotate: false
+  xy: 104, 6
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: 3
+angry_boar_pig_fly_backward
+  rotate: false
+  xy: 512, 11
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: 2
+angry_boar_pig_fly_backward
+  rotate: false
+  xy: 716, 13
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: 1
+angry_boar_pig_fly_forward
+  rotate: false
+  xy: 2, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: 3
+angry_boar_pig_fly_forward
+  rotate: false
+  xy: 206, 7
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: 1
+angry_boar_pig_fly_forward
+  rotate: false
+  xy: 614, 11
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: 2
+angry_boar_pig_fly_standstill
+  rotate: false
+  xy: 308, 7
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: 1
+angry_boar_pig_fly_standstill
+  rotate: false
+  xy: 410, 10
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: 2

@@ -1,0 +1,27 @@
+
+jumbo_pig_ground.png
+size: 429,121
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jumbo_pig_ground0
+  rotate: false
+  xy: 2, 2
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1
+jumbo_pig_ground1
+  rotate: false
+  xy: 145, 2
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1
+jumbo_pig_ground2
+  rotate: false
+  xy: 288, 2
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1
